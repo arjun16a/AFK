@@ -1,0 +1,6 @@
+{
+	"ip":"example.aternos.ip",
+	"port": "54110",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
